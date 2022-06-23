@@ -44,3 +44,18 @@ input{
 .poke-nombre{
     font-size: 50px;
 }
+.poke-id{
+    font-size: 30px;
+    color: cadetblue;
+    margin: 10px;
+}
+.poke-ability{
+    font-size: 25px;
+    color: rgb(95, 96, 160);
+    margin: 10px;
+}
+.poke-tipo{
+    font-size: 25px;
+    color: rgb(49, 51, 86);
+    margin: 10px;
+}
